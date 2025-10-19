@@ -12,4 +12,4 @@ I'm best reached via email. I'm always open to interesting conversations and col
 
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/Engrgit?label=Follow&style=social)](https://twitter.com/Engrgit)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ojumiai?label=Follow&style=social)](https://twitter.com/ojumiai)
